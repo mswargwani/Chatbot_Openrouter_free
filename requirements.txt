@@ -1,0 +1,20 @@
+# Core LangChain 
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Env handling
+python-dotenv
+
+# Web scraping (WebBaseLoader) and vector store
+beautifulsoup4
+faiss-cpu
+
+# Streamlit app (ollama/app.py)
+streamlit
+
+# Jupyter notebooks
+ipykernel
+notebook
